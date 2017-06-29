@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.chill" version="1.0" name="Chill" provider-name="Mark">
+<addon id="skin.chill" version="1.0.1" name="Chill" provider-name="Mark">
     <requires>
         <import addon="xbmc.gui" version="5.12.0"/>
         <import addon="script.skinshortcuts" version="1.0.13"/>
