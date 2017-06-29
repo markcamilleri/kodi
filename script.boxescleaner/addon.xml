@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.boxescleaner"
+       name="BOXES Cleaner"
+       version="1.0"
+       provider-name="Mark Camilleri">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>BOXES Cleaner</summary>
+    <description>
+	The best way to Clear Cache, Delete Thumbnails and Delete Packages. 
+    </description>
+    <language></language>
+    <license></license>
+    <source></source>
+    <forum></forum>
+    <website>http://www.boxes.com.mt</website>
+  </extension>
+</addon>
