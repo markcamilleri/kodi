@@ -7,9 +7,10 @@
 			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
 		</dir>
-		<info compressed="false">https://raw.githubusercontent.com/markcamilleri/kodi/master/zips/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/markcamilleri/kodi/master/zips/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/markcamilleri/kodi/master/zips/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/markcamilleri/repository.markcamilleri/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/markcamilleri/repository.markcamilleri/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/markcamilleri/repository.markcamilleri/master/zips/</datadir>
+	</extension>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">My Kodi Add-ons</summary>
@@ -18,7 +19,7 @@
 	</extension>
 </addon>
 
-<addon id="skin.chill" version="1.0.1" name="Chill" provider-name="Mark">
+<addon id="skin.chill" version="1.0" name="Chill" provider-name="Mark">
     <requires>
         <import addon="xbmc.gui" version="5.12.0"/>
         <import addon="script.skinshortcuts" version="1.0.13"/>
