@@ -63,7 +63,7 @@
   </extension>
 </addon>
 
-<addon id="skin.chill" version="1.0.2" name="Chill" provider-name="Mark">
+<addon id="skin.chill" version="1.0.3" name="Chill" provider-name="Mark">
     <requires>
         <import addon="xbmc.gui" version="5.12.0"/>
         <import addon="script.skinshortcuts" version="1.0.13"/>
@@ -84,15 +84,6 @@
         <assets>
             <icon>resources/icon.png</icon>
             <fanart>resources/fanart.jpg</fanart>
-            <screenshot>resources/screenshot-01.jpg</screenshot>
-            <screenshot>resources/screenshot-02.jpg</screenshot>
-            <screenshot>resources/screenshot-03.jpg</screenshot>
-            <screenshot>resources/screenshot-04.jpg</screenshot>
-            <screenshot>resources/screenshot-05.jpg</screenshot>
-            <screenshot>resources/screenshot-06.jpg</screenshot>
-            <screenshot>resources/screenshot-07.jpg</screenshot>
-            <screenshot>resources/screenshot-08.jpg</screenshot>
-            <screenshot>resources/screenshot-09.jpg</screenshot>
         </assets>
     </extension>
 </addon>
