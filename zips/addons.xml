@@ -21,7 +21,7 @@
   </extension>
 </addon>
 
-<addon id="repository.markcamilleri" name="Mark Camilleri's Repo" version="0.0.1" provider-name="Mark Camilleri">
+<addon id="repository.markcamilleri" name="Mark Camilleri's Repo" version="0.0.2" provider-name="Mark Camilleri">
 	<extension point="xbmc.addon.repository" name="Mark Camilleri's Repo">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
@@ -63,7 +63,7 @@
   </extension>
 </addon>
 
-<addon id="skin.chill" version="1.0.1" name="Chill" provider-name="Mark">
+<addon id="skin.chill" version="1.0.2" name="Chill" provider-name="Mark">
     <requires>
         <import addon="xbmc.gui" version="5.12.0"/>
         <import addon="script.skinshortcuts" version="1.0.13"/>
