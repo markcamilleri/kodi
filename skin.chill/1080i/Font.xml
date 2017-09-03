@@ -5,49 +5,49 @@
         <!--proportional font sizes for reference 6,8,9,10,11,12,14,18,24,30,36,48,60,72 -->
         <font>
             <name>logo</name>
-            <filename>regular.ttf</filename>
-            <size>50</size>
+            <filename>BlairITCStd.ttf</filename>
+            <size>40</size>
             <linespacing>0.9</linespacing>
         </font>
         <font>
             <name>veryLarge</name>
-            <filename>regular.ttf</filename>
-            <size>170</size>
+            <filename>BlairITCStd.ttf</filename>
+            <size>120</size>
             <linespacing>0.8</linespacing>
         </font>
         <font>
             <name>veryLargeLight</name>
-            <filename>regular.ttf</filename>
+            <filename>BlairITCStd-Light.ttf</filename>
             <size>96</size>
             <linespacing>0.8</linespacing>
         </font>
         <font>
             <name>large</name>
-            <filename>regular.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>60</size>
             <linespacing>1.0</linespacing>
         </font>
         <font>
             <name>largeBlack</name>
-            <filename>black.ttf</filename>
+            <filename>BlairITCStd-Bold.ttf</filename>
             <size>60</size>
             <linespacing>0.8</linespacing>
         </font>
         <font>
             <name>largeStrong</name>
-            <filename>bold.ttf</filename>
+            <filename>BlairITCStd-Bold.ttf</filename>
             <size>60</size>
             <linespacing>0.8</linespacing>
         </font>
         <font>
             <name>largeLight</name>
-            <filename>hthin.ttf</filename>
+            <filename>BlairITCStd-Light.ttf</filename>
             <size>54</size>
             <linespacing>0.9</linespacing>
         </font>
         <font>
             <name>medium</name>
-            <filename>hmed.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>48</size>
             <linespacing>1.0</linespacing>
         </font>
@@ -65,75 +65,75 @@
         </font>
         <font>
             <name>regular</name>
-            <filename>regular.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>36</size>
             <linespacing>0.9</linespacing>
         </font>
         <font>
             <name>regularStrong</name>
-            <filename>hbold.ttf</filename>
+            <filename>BlairITCStd-Bold.ttf</filename>
             <size>36</size>
             <linespacing>0.9</linespacing>
         </font>
         <font>
             <name>regularLight</name>
-            <filename>light.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>36</size>
             <linespacing>1.0</linespacing>
         </font>
         <font>
             <name>small</name>
-            <filename>hmed.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>30</size>
             <linespacing>0.9</linespacing>
         </font>
         <font>
             <name>smallStrong</name>
-            <filename>hbold.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>22</size>
             <linespacing>1.0</linespacing>
         </font>
         <font>
             <name>smallMedium</name>
-            <filename>hmed.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>24</size>
             <linespacing>1.0</linespacing>
         </font>
         <!--element specific-->
         <font>
             <name>textbox</name>
-            <filename>hmed.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>30</size>
             <linespacing>1.1</linespacing>
         </font>
         <font>
             <name>textboxExtraLeading</name>
-            <filename>hthin.ttf</filename>
+            <filename>BlairITCStd-Light.ttf</filename>
             <size>30</size>
             <linespacing>1</linespacing>
         </font>
         <font>
             <name>pageTitle</name>
-            <filename>regular.ttf</filename>
+            <filename>BlairITCStd-Bold.ttf</filename>
             <size>48</size>
             <linespacing>1.0</linespacing>
         </font>
         <font>
             <name>pageSubTitle</name>
-            <filename>hmed.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>30</size>
             <linespacing>1.0</linespacing>
         </font>
         <font>
             <name>dialogTitle</name>
-            <filename>regular.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>32</size>
             <linespacing>1.0</linespacing>
             <style>capitalize</style>
         </font>
         <font>
             <name>largeTitle</name>
-            <filename>regular.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>60</size>
             <linespacing>1.0</linespacing>
             <style>uppercase</style>
@@ -141,43 +141,43 @@
 
         <font>
             <name>itemTitle</name>
-            <filename>hmed.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>30</size>
             <linespacing>1.0</linespacing>
         </font>
         <font>
             <name>itemSubTitle</name>
-            <filename>hmed.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>24</size>
             <linespacing>1.0</linespacing>
         </font>
         <font>
             <name>itemSubTitleCondensed</name>
-            <filename>roboto/condensedBold.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>26</size>
             <linespacing>0.8</linespacing>
         </font>
         <font>
             <name>menuTitle</name>
-            <filename>regular.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>30</size>
             <linespacing>1.0</linespacing>
         </font>
         <font>
             <name>buttonTitle</name>
-            <filename>roboto/medium.ttf</filename>
-            <size>28</size>
+            <filename>BlairITCStd-Bold.ttf</filename>
+            <size>24</size>
             <linespacing>1.0</linespacing>
         </font>
         <font>
             <name>settingsCategoryTitle</name>
-            <filename>roboto/black.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>22</size>
             <linespacing>1.0</linespacing>
         </font>
         <font>
             <name>thumbTitle</name>
-            <filename>roboto/regular.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>20</size>
             <linespacing>1.0</linespacing>
         </font>
@@ -208,7 +208,7 @@
         <!-- Required for system -->
         <font>
             <name>font13</name>
-            <filename>regular.ttf</filename>
+            <filename>BlairITCStd.ttf</filename>
             <size>30</size>
         </font>
     </fontset>
