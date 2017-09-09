@@ -83,7 +83,7 @@
                     <posy>5-row</posy>
                     <width>8-col</width>
                     <height>2-row</height>
-                    <font>pageSubTitle</font>
+                    <font>textboxsmall</font>
                     <aligny>center</aligny>
                     <textcolor>textActive</textcolor>
                     <label>[B]$INFO[Videoplayer.time][/B]</label>
@@ -94,18 +94,30 @@
                     <posy>5-row</posy>
                     <width>8-col</width>
                     <height>2-row</height>
-                    <font>pageSubTitle</font>
+                    <font>textboxsmall</font>
                     <align>right</align>
                     <aligny>center</aligny>
                     <textcolor>textActive</textcolor>
                     <label>[B]$INFO[Videoplayer.duration][/B]</label>
                     <scroll>false</scroll>
                 </control>
+                <control type="label">
+                    <right>col-1-begin</right>
+                    <posy>6-row</posy>
+                    <width>8-col</width>
+                    <height>2-row</height>
+                    <font>textboxsmall</font>
+                    <align>right</align>
+                    <aligny>center</aligny>
+                    <textcolor>textActive</textcolor>
+                    <label>Res: $INFO[VideoPlayer.VideoResolution]p $INFO[VideoPlayer.VideoCodec] Channels: $INFO[VideoPlayer.AudioChannels] $INFO[VideoPlayer.AudioCodec]</label>
+                    <scroll>false</scroll>
+                </control>
                 <!--synopsis-->
                 <control type="textbox">
                     <posx>0</posx>
                     <posy>8-row</posy>
-                    <font>textbox</font>
+                    <font>textboxsmall</font>
                     <width>624</width>
                     <align>left</align>
                     <textcolor>textActive</textcolor>
@@ -114,6 +126,7 @@
                     <autoscroll>false</autoscroll>
                     <shadowcolor>-</shadowcolor>
                     <pagecontrol>61</pagecontrol>
+
                 </control>
                 <control type="scrollbar" id="61">
                     <posx>60r</posx>

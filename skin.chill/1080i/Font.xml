@@ -107,6 +107,12 @@
             <linespacing>1.1</linespacing>
         </font>
         <font>
+            <name>textboxsmall</name>
+            <filename>BlairITCStd.ttf</filename>
+            <size>21</size>
+            <linespacing>1.1</linespacing>
+        </font>
+        <font>
             <name>textboxExtraLeading</name>
             <filename>BlairITCStd-Light.ttf</filename>
             <size>30</size>
